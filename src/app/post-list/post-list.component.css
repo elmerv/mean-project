@@ -1,0 +1,9 @@
+/* Host targets the element itself so in this case it would target <app-post-list>*/
+:host{
+  display: block;
+  margin-top: 1rem;
+}
+
+.info-text{
+  text-align: center;
+}
